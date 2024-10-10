@@ -5,12 +5,17 @@
     --cor-de-fundo: black;
 
 }
+
 bory{
     background-color: var(--cor-de-fundo);
     color: var(--branco-principal);
 
-}
+} 
+
 {
     margin: 0;
     padding: 0;
+}
+.principal{
+    background-image: url(ALURA\ PLUS\ 2B/);
 }
